@@ -1,0 +1,20 @@
+- Wait for answer, then continue after timeout
+- Ask: "Do you want to know how this is done?"
+- parse also "3 out of 10" or "7 in hundred" correctly
+- say something about the saved information
+- save more information about the person, give more intricated intros
+- use name more often
+
+- do you want me to give you a hint - more options
+- same with "you seem to have problems"
+- are you still there - yes
+- give me a hint
+- ask for percent
+
+- be a bit more socratic!	(How do you know this is the cause?) (Is there anything you can do to proove this?)
+- todo Länger warten, besonders bei Fragen, welche Rechnungen erfordern
+- Toleranzbereiche abhängig von Art der Antwort bei ParseStatistics
+- in percent
+- you seem to (zu häufig in der Auswertung)
+- 
+

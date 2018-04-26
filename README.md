@@ -1,5 +1,4 @@
-# ConversationalAgentReasoning
-A Conversational Agent for the Improvement of Human Reasoning Skills
+# A Conversational Agent for the Improvement of Human Reasoning Skills
 
 This is the project I did for my bachelor thesis in 2015/16 - A conversational agent (aka Chatbot) named "Liza" who talks to people in an attempt to teach them **Rationality**. Rationality in this case is defined by the absence of irrationial choices, in the form of some well-studied reasoning problems. The intervention of talking to the agent for some time improved performance on those tasks significantly more than just reading a textbook explanation about how they work (n=65). 
 

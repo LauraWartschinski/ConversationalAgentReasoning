@@ -11,7 +11,7 @@ The persona of the (purely textual) agent is that of a "young", newly created co
 ![components](https://github.com/LauraWartschinski/ConversationalAgentReasoning/blob/master/images/components.png)
 
 
-More information about the general concept of reasoning and rationality can be found in the PDF version of my thesis. It received the best possible grade and I got a price for it, but I am not exactly proud of code itself. It is not really prepared for the general public, not very well documented, and some of the code is inelegant and not efficient. I would require some cleanup, but I would rather move on with new projects than maintain old stuff that served its purpose.
+More information about the general concept of reasoning and rationality can be found in the PDF version of my thesis. It received the best possible grade and I got a price for it, mostly because of the idea and scientific value, but I am not exactly proud of code itself.  It is not really prepared for the general public, not really documented, and some of the code is inelegant and not efficient. There are still some bugs. I rarely used comments at all. I guess the architecture is okay. I would require some cleanup, but I would rather move on with new projects than maintain old stuff that served its purpose.
 
 I will just include some impressions. The snippets are taken from different parts of the conversation and do not come from the same teaching session, and are not neccessarily in that order. They just stand for themselves.
 
